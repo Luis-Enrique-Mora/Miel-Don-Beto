@@ -1,0 +1,17 @@
+.navbar {
+    background-color: #ffdb3800;
+    z-index: 100;
+}
+
+#title {
+    color: #423022;
+}
+
+#logo {
+    width: 40px;
+}
+
+figure {
+    margin-top: -70px;
+    z-index: 0;
+}
