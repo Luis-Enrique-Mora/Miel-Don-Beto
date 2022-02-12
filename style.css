@@ -3,12 +3,24 @@
     z-index: 100;
 }
 
-#title {
+.primary-color {
     color: #423022;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.left-text {
+    text-align: left;
 }
 
 #logo {
     width: 40px;
+}
+
+.icon {
+    width: 30px;
 }
 
 figure {
